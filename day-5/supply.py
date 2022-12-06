@@ -36,4 +36,4 @@ for command in move_commands:
 
 answer = "".join([stack[len(stack) - 1] for stack in stacks if stack])
 puzzle.answer_a = answer
-puzzle.answer_b = answer
+#puzzle.answer_b = answer
